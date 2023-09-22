@@ -1,3 +1,6 @@
+//Nesse código o objetivo era criar um programa para gerir filmes. Para isso utilizamos 3 arquivos, um '.dat' contendo os dados dos filmes, e outros 2 '.idx' que guardem os indices que consistem de um código e um RRN,
+//que será usado para buscas no arquivo de dados. Esse código permite inserir,remover,buscar,e alterar a nota de um filme.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
